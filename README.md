@@ -24,4 +24,4 @@ To run this project, you'll need the following:
 1. Clone the repository or download the project files to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/double-pendulum.git
+   git clone https://github.com/Arbaz8652/Double_Pendulum_Java
